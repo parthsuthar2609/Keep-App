@@ -1,0 +1,9 @@
+.Footer{
+    margin: auto;
+    text-align: center;
+    margin-top: calc(100vh - 120px);
+    color: chartreuse;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: 600;
+}

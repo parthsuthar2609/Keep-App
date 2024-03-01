@@ -1,0 +1,40 @@
+.create-note{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 200px;
+    width: 380px;
+    margin: auto;
+    box-shadow:0 0 50px rgb(214, 203, 203);
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.text{
+    height: 30px;
+    width: 380px;
+    font-size: 25px;
+    font-family: cursive;
+    color: black;
+    background: none;
+    border: none;
+    outline: none;
+    font-weight: 600;
+}
+.texta{
+   border: none;
+   height: 75px;
+   margin-top: 20px;
+   width: 380px;
+   background: none;
+   outline: none;
+   font-size: 20px;
+   font-family: cursive;
+   font-weight: 600;
+  
+}
+.button-icon{
+    display: flex;
+   justify-content: center;
+}

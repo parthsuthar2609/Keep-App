@@ -1,0 +1,21 @@
+.contentainer{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    background-color: #538b33
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.Header{
+    height: 80px;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    color: rgb(240, 6, 65);
+    padding-top: 10px;
+    text-shadow: 0 0 10px rgb(6, 212, 6);
+    font-family: cursive;
+    font-size: 30px;
+}

@@ -1,0 +1,36 @@
+.create{
+    display: flex;
+    flex-direction: column;
+    height: 125px;
+    width: 225px;
+    margin:10px;
+    box-shadow:0 0 50px rgb(214, 203, 203);
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+p{
+    font-size: 20px;
+    font-family: cursive;
+}
+.button-1{
+    display: flex;
+    height: 30px;
+    margin-top: 10px;
+    width: 10px;
+    justify-content: flex-end;
+    background-color: aqua;
+}
+.button-1:hover{
+    background-color: none;
+    color: aqua;
+    border-radius: 10px;
+    border: none;  
+}
+h1{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: cursive;
+}
